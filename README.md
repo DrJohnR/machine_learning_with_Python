@@ -5,4 +5,4 @@ RF_AB --> Random Forest and Adaptive Boosting
 
 SVM --> Support Vector Machines
 
-fNN_SGD --> (feedforward) Neural Network using Stochastic Gradient Descent optimiser
+FNN --> Feedforward Neural Network (comparing two optimisation algorithms: Stochastic Gradient Descent, Adam)
